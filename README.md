@@ -59,4 +59,5 @@ conda env list
 conda activate myenv3_12
 python --version
 ```
-
+Note: 
+[For Practice And Additional information ](https://github.com/panaverse/learn-modern-python#learning-material).

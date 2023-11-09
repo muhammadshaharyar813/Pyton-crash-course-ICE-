@@ -42,7 +42,7 @@ Book: ["Introduction to Machine Learning with Python" by Andreas C. Müller & Sa
 Scikit-Learn Documentation (for reference):[ Scikit-Learn Official Documentation](https://scikit-learn.org/stable/documentation.html).
 
 
-### Improtant information:
+# Improtant information:
 # Installation: 
 [Install Anaconda with Python 3.12](https://www.anaconda.com/download).
 

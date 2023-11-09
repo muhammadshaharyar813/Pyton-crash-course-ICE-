@@ -52,7 +52,7 @@ Scikit-Learn Documentation (for reference):[ Scikit-Learn Official Documentation
 
 [Read this Document for Reference](https://python.plainenglish.io/typed-python-for-typescript-developers-791145e7171c).
 
-#Commands to Upgrade to the Latest Python 3.12 in Anaconda:
+# Commands to Upgrade to the Latest Python 3.12 in Anaconda:
 ```bash
 conda create --name myenv3_12 python=3.12
 conda env list

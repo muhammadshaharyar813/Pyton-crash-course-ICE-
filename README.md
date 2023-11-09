@@ -41,5 +41,21 @@ Book: ["Introduction to Machine Learning with Python" by Andreas C. Müller & Sa
 Scikit-Learn Documentation (for reference):[ Scikit-Learn Official Documentation](https://scikit-learn.org/stable/documentation.html).
 
 
-## More Information:
+## Improtant information:
+# Installation: 
+[Install Anaconda with Python 3.12](https://www.anaconda.com/download).
+
+[Install VS Code](https://code.visualstudio.com/).
+
+[Install Python Plugin](https://marketplace.visualstudio.com/items?itemName=ms-python.python).
+
+[Read this Document for Reference](https://python.plainenglish.io/typed-python-for-typescript-developers-791145e7171c).
+
+#Commands to Upgrade to the Latest Python 3.12 in Anaconda:
+```bash
+conda create --name myenv3_12 python=3.12
+conda env list
+conda activate myenv3_12
+python --version
+```
 
